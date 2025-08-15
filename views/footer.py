@@ -21,7 +21,7 @@ def show():
             padding: 8px 0;
             font-size: 13px;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-                border-radius: 10px;
+            border-radius: 10px;
         }}
         .footer a {{
             color: #4FC3F7;
@@ -34,7 +34,7 @@ def show():
         }}
         </style>
         <div class="footer">
-            © {current_year} | Built with ❤️ by &nbsp; <a href="https://github.com/YourGitHub" target="_blank">Mediwise Team</a> &nbsp; 
-            • Powered by &nbsp; <a href="https://streamlit.io" target="_blank"> Mediwise</a>
+            © {current_year} | Built with ❤️ by &nbsp; <a href="https://github.com/ARI-900/" target="_blank">Mediwise Team</a> &nbsp; 
+            • Powered by &nbsp; <a href="#" target="_blank"> Mediwise</a>
         </div>
     """, unsafe_allow_html=True)

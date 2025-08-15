@@ -16,6 +16,10 @@ def simple_rule_predict(symptoms, severity):
     
     return "General Advice: Monitor symptoms, rest, hydrate, consult a doctor if it worsens."
 
+
+
+
+
 def show():
     st.header("Our Services")
     st.markdown("""
